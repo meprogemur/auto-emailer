@@ -32,6 +32,7 @@ msg.add_alternative(f"""\
     <body>
     <h1 style="color:gray">{pickup}</h1>
     <img src="{data}" alt="yes">
+    <h4 style="color:gray">~ your husband</h4>
     </body>
     </html>
     """,subtype='html')
